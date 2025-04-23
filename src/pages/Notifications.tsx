@@ -1,8 +1,7 @@
-
 import React from 'react';
 import FeaturePageLayout from '@/components/layout/FeaturePageLayout';
 import { Button } from '@/components/ui/button';
-import { BellIcon, AlertTriangleIcon, ClockIcon } from 'lucide-react';
+import { BellIcon, AlertTriangleIcon, ClockIcon, Briefcase as BriefcaseIcon, ClipboardList as ClipboardListIcon, Users as UsersIcon, Calendar as CalendarIcon } from 'lucide-react';
 
 const Notifications = () => {
   const notifications = [
